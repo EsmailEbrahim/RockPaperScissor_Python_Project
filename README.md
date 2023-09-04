@@ -1,1 +1,1 @@
-# RockPaperScissor_Python_Project
+# RockPaperScissor_Python_Project for ERPNext Course
